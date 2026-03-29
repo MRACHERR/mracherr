@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi. Welcome to my GitHub profile.
+
+### About Me
+* 🛡️ Offensive/deffensive Security Engineer
+* ✍️ Blog Author
+* 🧩 CTF Player
+<!--
+### Connect with Me
+* 🌍 [Personal Website](https://your-website.com)
+* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+* 📺 [YouTube](https://youtube.com/yourchannel)
+* 📦 [HackTheBox](https://app.hackthebox.com/users/your-id)
+* ☁️ [TryHackMe](https://tryhackme.com/p/your-username)
+
+--!>

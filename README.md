@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi. Welcome to my GitHub profile.
 
 ### About Me
-* 🛡️ Offensive/deffensive Security Engineer
+* 🛡️ Security Engineer
+* 🎓 DevSecOps Engineer
 * ✍️ Blog Author
 * 🧩 CTF Player
 <!--
